@@ -1,0 +1,13 @@
+{
+  "articles": [
+    {
+      "slug": "darshan-adhyan",
+      "category": "darshan",
+      "title": "दर्शन का अध्ययन",
+      "date": "2026-01-01",
+      "description": "दर्शन पर डमी लेख",
+      "image": "images/articles/darshan.jpg",
+      "articlePath": "articles/darshan-adhyan.html"
+    }
+  ]
+}
